@@ -1,0 +1,10 @@
+{
+    "name": "pulumi-gitlab-issue-128-example",
+    "devDependencies": {
+        "@types/node": "^14"
+    },
+    "dependencies": {
+        "@pulumi/gitlab": "^4.7.0",
+        "@pulumi/pulumi": "^3.0.0"
+    }
+}
